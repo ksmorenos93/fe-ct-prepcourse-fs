@@ -215,6 +215,7 @@ function tieneTresDigitos(num) {
 console.log("Función tiene 3 digitos")
 console.log(tieneTresDigitos(201))
 
+
 function doWhile(num) {
    // Implementar una función que aumente el valor recibido en 5 hasta un límite de 8 veces.
    // Retornar el valor final.
